@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Vercel
+.vercel
+
+# OS
+.DS_Store
+
+# Secrets — every .env* is ignored EXCEPT the checked-in template.
+# The negation must come AFTER the patterns it exempts.
+.env
+.env.local
+.env*.local
+.env.*
+!.env.example
+
+# Regenerated eval outputs (the harness rewrites these on every run)
+month_test_sim/test_run_log.txt
+month_test_sim/test_run_summary.txt
+*.out
