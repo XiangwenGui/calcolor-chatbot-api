@@ -279,8 +279,10 @@ curl -s -o/dev/null -w '%{http_code}\n' -X POST \
 Outputs `test_run_log.txt` and `test_run_summary.txt` (both gitignored — rewritten
 every run). The committed baseline is `month_test_sim/baseline-2026-08-03.log`:
 
-**150 questions / 149 answered / 1 escalated / 0 errored**, the single escalation
-being Q57.
+**150 questions / 149 answered / 1 escalated / 0 empty / 0 errored**, the single
+escalation being Q57. The `empty` bucket counts answers that came back blank —
+that is the reasoning-budget signature, and it is tallied separately precisely so
+it cannot hide inside `answered`.
 
 Compare **only the `^retrieved:` lines**. Answer prose varies run-to-run at default
 temperature regardless of provider, so diffing prose produces pure noise:
