@@ -2,12 +2,25 @@
 // configured embedding model, and write data/vectors.json (bundled with the
 // deploy). Re-run this whenever the KB changes:  npm run build:index
 //
-// Requires AI_GATEWAY_API_KEY in the environment (see .env.example).
+// Requires OPENROUTER_API_KEY in the environment (see .env.example).
+//
+// WARNING — this overwrites the retrieval baseline. data/vectors.json currently
+// holds float16-quantized vectors returned by the old Vercel AI Gateway; rebuilding
+// through OpenRouter writes full-precision ones. The score shift is tiny (~1e-5)
+// and harmless in itself, but month_test_sim/baseline-2026-08-03.log stops being a
+// like-for-like comparison the moment you do it. If you rebuild, re-run the eval
+// and re-baseline.
+//
+// Also note the AI SDK issues ONE request for all values below: the OpenRouter
+// provider reports maxEmbeddingsPerCall as undefined, so there is no automatic
+// chunking. A KB grown past the endpoint's per-request input limit will fail hard
+// rather than batch — split the call yourself if that day comes.
 
 import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { embedMany } from 'ai';
 import { config } from '../lib/config.js';
+import { embeddingModel } from '../lib/models.js';
 
 const kbDir = fileURLToPath(new URL('../kb', import.meta.url));
 const outPath = fileURLToPath(new URL('../data/vectors.json', import.meta.url));
@@ -37,11 +50,14 @@ async function main() {
 
   console.log(`Embedding ${docs.length} chunks with ${config.embedModel}...`);
   const { embeddings } = await embedMany({
-    model: config.embedModel,
+    model: embeddingModel,
     values: docs.map((d) => d.text),
   });
 
   const index = {
+    // A provenance LABEL recorded in the index file, not a model argument — this
+    // is the one legitimate `model: config.` in the codebase. The negative control
+    // that proves no bare string model ids survive allowlists exactly this line.
     model: config.embedModel,
     dims: embeddings[0]?.length ?? 0,
     chunks: docs.map((d, i) => ({ ...d, embedding: embeddings[i] })),
