@@ -15,8 +15,11 @@ function parseReasoningEffort(raw: string | undefined): ReasoningEffort {
 }
 
 // NOTE: keep this file dependency-free (nothing imported beyond node builtins).
-// scripts/verify-offline.ts imports it, and that is what lets the offline test run
-// with no provider package loaded and no credentials present.
+// lib/models.ts imports it to construct the provider, so anything imported here
+// would be pulled in ahead of that — and this file needs to stay readable without
+// the SDK. It does NOT keep the provider package out of scripts/verify-offline.ts:
+// that imports lib/kb.ts, which imports lib/models.ts. What keeps the offline test
+// offline is that createOpenRouter loads OPENROUTER_API_KEY lazily, per request.
 export const config = {
   // Model IDs are OpenRouter strings ("provider/model"). Swappable via env with no
   // code change — e.g. bump CHAT_MODEL to a newer mini when available.

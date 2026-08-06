@@ -162,6 +162,12 @@ the other's steps.
     `https://calcolor.com,https://www.calcolor.com` allowlist afterward — no
     leftover test config in production.
 
+      **This was verified against the pre-migration (AI Gateway) deployment.**
+      Repeat both checks after step 11 puts the OpenRouter build live. The
+      widget, CORS and URLs are unchanged; the model calls are not. On the
+      grounded call, confirm the body is **non-empty** — an empty `200` is the
+      signature of reasoning effort not reaching the wire.
+
 - [ ] **13. Send the exact footer snippet (below) to whoever has Webflow
       access.**
 

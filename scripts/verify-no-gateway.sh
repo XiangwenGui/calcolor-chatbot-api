@@ -70,15 +70,32 @@ if [[ "$(code_grep 'model: config\.' | grep -c 'scripts/build-index.ts')" -ne 1 
   fail=1
 fi
 
+# The other half of the same regression, which `model: config.` does NOT cover:
+# a hardcoded id, `model: 'openai/gpt-5-mini'`. It typechecks (the SDK's `model`
+# parameter accepts a string by design) and the runtime check below cannot see it
+# unless it happens to be on the embedding path — so without this line the gate
+# passes a mutation that puts the Gateway straight back into production. Verified
+# by deliberately introducing one.
+#
+# Residual gap, stated rather than papered over: a model id held in a variable is
+# not statically detectable. Nothing here passes one, and there is no reason to.
+check "no string-literal model id" $'model:[[:space:]]*[\'"`]' 0
+
 echo
 echo "Runtime check:"
 
 # The real proof. With a live VERCEL_OIDC_TOKEN present and no OpenRouter key,
 # retrieve() must THROW. If it returns embeddings, something still resolves
 # through the Gateway via OIDC.
-if [[ -f .env.local ]] && grep -q VERCEL_OIDC_TOKEN .env.local; then
-  env -u OPENROUTER_API_KEY -u AI_GATEWAY_API_KEY \
-    node --env-file=.env.local --import tsx -e "
+#
+# The token is read out of .env.local and injected on its own, rather than loading
+# the whole file with --env-file. `vercel env pull` writes OPENROUTER_API_KEY into
+# .env.local too, and --env-file would put it straight back after `env -u` removed
+# it — turning this check into a permanent failure with a misleading diagnosis.
+oidc=$(sed -n 's/^VERCEL_OIDC_TOKEN=//p' .env.local 2>/dev/null | head -1 | tr -d $'"\'')
+if [[ -n "$oidc" ]]; then
+  env -u OPENROUTER_API_KEY -u AI_GATEWAY_API_KEY VERCEL_OIDC_TOKEN="$oidc" \
+    node --import tsx -e "
 import('./lib/kb.ts').then(async (kb) => {
   try {
     await kb.retrieve('What is the make-up class fee?');
@@ -94,8 +111,8 @@ import('./lib/kb.ts').then(async (kb) => {
     }
   }
 });
-" 2>&1 | grep -vE '^\.env|^Loading'
-  [[ "${PIPESTATUS[0]}" -ne 0 ]] && fail=1
+" 2>&1
+  [[ $? -ne 0 ]] && fail=1
 else
   echo "SKIP  no VERCEL_OIDC_TOKEN in .env.local — run 'vercel link' to fetch one."
   echo "      The static checks above cannot detect an OIDC-authenticated fallback."
