@@ -1,0 +1,1295 @@
+===== [1/150]  I emailed yesterday and haven't heard back yet, is that normal? =====
+
+Q: I emailed yesterday and haven't heard back yet, is that normal?
+
+retrieved: faq-no-response=0.536, faq-fsa-receipt=0.316, faq-makeup-class-full=0.241, faq-waitlist-duration=0.224
+
+A: Thank you for checking in — that can happen. If your message came in outside our regular business hours, we may not have had a chance to reply yet. We aim to respond to all inquiries within one business day.
+
+===== [2/150]  Nobody picked up when I called the front desk, what should I do? =====
+
+Q: Nobody picked up when I called the front desk, what should I do?
+
+retrieved: faq-no-response=0.414, faq-wifi=0.344, faq-makeup-class-full=0.281, faq-fsa-receipt=0.248
+
+A: Thank you for reaching out — we apologize if your call wasn’t answered. It's possible it came in outside our regular business hours. We aim to respond to all inquiries within one business day, so please try again; if you still need help you can call or email and we’ll get back to you within one business day.
+
+===== [3/150]  Are the art supplies you use safe for kids with sensitive skin? =====
+
+Q: Are the art supplies you use safe for kids with sensitive skin?
+
+retrieved: faq-paint-non-toxic=0.564, safety-and-materials=0.550, faq-paint-allergy=0.522, fine-art-kids=0.406
+
+A: Yes. The paints and materials used in our in-person classes are non-toxic and described as safe. If your child has sensitive skin or specific allergies/sensitivities, we recommend contacting us for more details or considering our digital class options so your child can work from home with parent-approved materials. New students also receive one free trial class if you’d like to try it first.
+
+===== [4/150]  Is the paint you use washable? =====
+
+Q: Is the paint you use washable?
+
+retrieved: faq-paint-non-toxic=0.530, faq-paint-allergy=0.436, safety-and-materials=0.369, studio-amenities=0.329
+
+A: I'm not certain — the provided info says the paints are non-toxic but doesn't state whether they're washable. Please contact our front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html for details.
+
+===== [5/150]  My child missed class this week, can I get a refund? =====
+
+Q: My child missed class this week, can I get a refund?
+
+retrieved: faq-refund-missed-class=0.597, cancellation-refund-policy=0.569, faq-pause-class-travel=0.536, makeup-classes=0.518
+
+A: We do not offer refunds for missed classes. Instead, you can book a make-up class through your campus account (or call/email the campus for help). You have up to five free make-ups per semester; after that, a $5 fee applies per additional make-up that semester. Follow the steps in your campus account menu: Request a Makeup Class → choose student/class/season → pick a date. If you need help or the class you want is full, call (408) 818-8818 or email your campus.
+
+===== [6/150]  What happens if my child misses two classes in a row? =====
+
+Q: What happens if my child misses two classes in a row?
+
+retrieved: faq-refund-missed-class=0.504, faq-pause-class-travel=0.481, makeup-classes=0.474, faq-two-classes-same-level=0.461
+
+A: If your child misses two classes in a row, there are no refunds, but you can schedule make-up classes through your campus account (see steps in the makeup policy). Make-ups should be registered within the same week of each missed class (week runs Monday–Sunday); you can schedule them before or after the missed sessions. Each student gets five free make-ups per semester; after that, a $5 processing fee applies per additional make-up. Make-ups must be at the same site and level, and rescheduling requires 24 hours' notice. If a desired make-up class is full, contact your campus (call (408) 818-8818 or email your campus) for help.
+
+===== [7/150]  Who is the best teacher for a 6-year-old beginner? =====
+
+Q: Who is the best teacher for a 6-year-old beginner?
+
+retrieved: faq-popular-teacher=0.435, teachers=0.348, fine-art-kids=0.333, faq-camp-teacher-announcement=0.301
+
+A: All of our teachers are experienced and professional, and we don't recommend one over another. For a 6-year-old beginner, the appropriate class level is Art Exploration (ages 4–6). You can read about individual teachers at https://www.calcolor.com/teachers or book the free trial class all new students receive to see which teacher is the best fit.
+
+===== [8/150]  Can you recommend a teacher who specializes in digital art? =====
+
+Q: Can you recommend a teacher who specializes in digital art?
+
+retrieved: digital-art=0.551, faq-popular-teacher=0.538, teachers=0.518, fine-art-teen=0.432
+
+A: All of our teachers are experienced and professional, and we don’t single out one over another. For information about teachers who specialize in digital art, you can review the Teaching Team list — instructors tied to digital programs include Mr. Joseph (Instructor of Digital Art) and Ms. Michelle (Digital Program Manager). For full teacher profiles, please visit https://www.calcolor.com/teachers.
+
+===== [9/150]  Can I put my child's enrollment on hold while we travel for a month? =====
+
+Q: Can I put my child's enrollment on hold while we travel for a month?
+
+retrieved: faq-pause-class-travel=0.629, cancellation-refund-policy=0.448, faq-returning-student-trial=0.424, faq-potty-trained=0.422
+
+A: No — we cannot pause or hold a student's spot without payment. If your trip is still a month away you can cancel with 30 days' notice and re-enroll after you return (but we can't guarantee a spot in your same class). If it's too late to cancel, you can either attend a makeup class or request a class recording and pick up the art materials to complete the project at home.
+
+===== [10/150]  We're going on vacation for three weeks, can we skip payment during that time? =====
+
+Q: We're going on vacation for three weeks, can we skip payment during that time?
+
+retrieved: faq-pause-class-travel=0.505, cancellation-refund-policy=0.368, summer-camp-pricing=0.307, billing-cycle-2026-2027=0.305
+
+A: No. CalColor cannot pause or hold a student's spot without payment. If your trip is at least a month away you may cancel your enrollment with 30 days’ notice and re-enroll after you return (but space in your current class is not guaranteed). If it’s too late to cancel under the one-month policy, you can either attend a make-up class or request a recording and pick up materials to complete the project at home.
+
+===== [11/150]  Do you offer any kind of free trial class? =====
+
+Q: Do you offer any kind of free trial class?
+
+retrieved: faq-free-trial=0.655, free-trial=0.650, faq-returning-student-trial=0.566, open-house=0.489
+
+A: Yes. CalColor offers one free trial class to all new students (one free trial per level). Returning students who haven't attended in a long time (e.g., 2019–2022) can also book a free trial. To book, sign in or create an account, choose Request a Trial Class from the menu, pick a student and season, then select a class and date. Trials resume July 27, 2026.
+
+===== [12/150]  Is there a cost for the first trial class? =====
+
+Q: Is there a cost for the first trial class?
+
+retrieved: free-trial=0.630, faq-free-trial=0.548, open-house=0.492, faq-returning-student-trial=0.483
+
+A: There is no cost for the first trial class — CalColor offers one free trial before you register. (Note: trials resume July 27, 2026.)
+
+===== [13/150]  How long does it usually take to get off the waitlist? =====
+
+Q: How long does it usually take to get off the waitlist?
+
+retrieved: faq-waitlist-duration=0.635, faq-waitlist-how=0.506, faq-pause-class-travel=0.299, registration=0.299
+
+A: We can’t provide a definite timeframe — we don’t know when a spot might open up due to student withdrawals. The waitlist length depends on when someone withdraws, so we cannot predict how long it will take to get off the waitlist.
+
+===== [14/150]  Is there any way to speed up getting off the waitlist? =====
+
+Q: Is there any way to speed up getting off the waitlist?
+
+retrieved: faq-waitlist-how=0.518, faq-waitlist-duration=0.508, faq-pause-class-travel=0.314, registration=0.302
+
+A: We can’t guarantee speed — spots open only when another student withdraws. The waitlist is processed automatically when you click enroll on a full class; there’s no stated way to expedite it in the provided information.
+
+If you’d like alternatives, consider registering for a different section or campus (you can join anytime) or book a free trial in another class. For help choosing another class or with registration, call (408) 818-8818 or email your campus.
+
+===== [15/150]  How do I add my child to the waitlist for a full class? =====
+
+Q: How do I add my child to the waitlist for a full class?
+
+retrieved: faq-waitlist-how=0.726, registration=0.525, free-trial=0.490, faq-waitlist-duration=0.478
+
+A: If the class is full, click Enroll on that class in the registration portal — the system will automatically add your child to the class's waitlist. (If the class is not full, no waitlist is available.)
+
+===== [16/150]  Is there a waitlist for every class or only full ones? =====
+
+Q: Is there a waitlist for every class or only full ones?
+
+retrieved: faq-waitlist-how=0.718, faq-waitlist-duration=0.548, registration=0.479, faq-makeup-class-full=0.477
+
+A: Only for full classes. A waitlist is created automatically if you click enroll on a class that's full; if the class isn’t full, no waitlist exists.
+
+===== [17/150]  Can my son join a semester that's already started? =====
+
+Q: Can my son join a semester that's already started?
+
+retrieved: faq-join-mid-semester=0.568, faq-pause-class-travel=0.487, registration=0.423, faq-two-classes-same-level=0.418
+
+A: Yes — we welcome students to join whenever they like, including mid-semester. If you need help registering, log in to your campus's StudioDirector portal to enroll, or book a free trial first if you're new. If you want assistance, call (408) 818-8818 or email your campus.
+
+===== [18/150]  Is it too late to enroll if the semester is halfway through? =====
+
+Q: Is it too late to enroll if the semester is halfway through?
+
+retrieved: faq-join-mid-semester=0.564, faq-pause-class-travel=0.440, registration=0.420, faq-waitlist-how=0.418
+
+A: No — it’s fine to join in the middle of the semester. We welcome students to join whenever they like. If the class is full when you try to enroll, you’ll be added automatically to the waitlist.
+
+===== [19/150]  My daughter has a paint allergy, are there alternatives to in-person classes? =====
+
+Q: My daughter has a paint allergy, are there alternatives to in-person classes?
+
+retrieved: faq-paint-allergy=0.722, safety-and-materials=0.550, fine-art-kids=0.509, online-classes=0.508
+
+A: Yes. If your daughter is allergic to paint, we recommend CalColor’s digital/online class options. Our in-person materials are non-toxic, but because allergies vary, digital classes let students learn and create from home using safe, parent-approved materials. Online classes run over Zoom and follow the same program pathway; register through the Online StudioDirector portal. If you’d like help, call the front desk at (408) 818-8818.
+
+===== [20/150]  Do you have hypoallergenic materials for kids with sensitivities? =====
+
+Q: Do you have hypoallergenic materials for kids with sensitivities?
+
+retrieved: faq-paint-allergy=0.478, faq-paint-non-toxic=0.443, safety-and-materials=0.412, studio-amenities=0.349
+
+A: We use non-toxic paints and materials in our in-person classes, but we do not state that we offer specially labeled “hypoallergenic” supplies. Because allergies and sensitivities vary, we recommend our digital class options so students can work at home with parent-approved, safe materials. If you’d like more details or to discuss specific sensitivities, please contact the front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html.
+
+===== [21/150]  Every makeup class slot I look at is full, what should I do? =====
+
+Q: Every makeup class slot I look at is full, what should I do?
+
+retrieved: faq-makeup-class-full=0.718, makeup-classes=0.592, faq-makeup-booking-advance=0.578, faq-refund-missed-class=0.498
+
+A: If the make-up class you want is full, please call or email your campus and we will try to help. For help booking a make-up, call (408) 818-8818 or email your campus.
+
+===== [22/150]  How do I find an open makeup class if the calendar shows nothing available? =====
+
+Q: How do I find an open makeup class if the calendar shows nothing available?
+
+retrieved: faq-makeup-class-full=0.624, makeup-classes=0.623, faq-makeup-booking-advance=0.546, open-house=0.480
+
+A: If the class you want for a make-up is full or the calendar shows nothing available, please call or email your campus and we will try to help. For help booking a make-up, call (408) 818-8818 or email your campus.
+
+===== [23/150]  Can my child take the same class level twice in one week? =====
+
+Q: Can my child take the same class level twice in one week?
+
+retrieved: faq-two-classes-same-level=0.752, faq-pause-class-travel=0.433, cancellation-refund-policy=0.428, billing-cycle-2026-2027=0.418
+
+A: Yes. You’re welcome to enroll your child in two classes at the same level. Just note the content may be similar or even the same in both sessions.
+
+===== [24/150]  Is it okay to double up on the same level class for extra practice? =====
+
+Q: Is it okay to double up on the same level class for extra practice?
+
+retrieved: faq-two-classes-same-level=0.560, faq-join-mid-semester=0.384, class-levels=0.372, free-trial=0.346
+
+A: Yes — you’re welcome to take two classes at the same level. Just note the content may be similar or even the same in both sessions.
+
+===== [25/150]  My child used to attend CalColor a few years ago but stopped, can we get a free trial again? =====
+
+Q: My child used to attend CalColor a few years ago but stopped, can we get a free trial again?
+
+retrieved: faq-returning-student-trial=0.859, free-trial=0.699, open-house=0.615, discounts=0.606
+
+A: Yes — returning students who attended in the past (for example, 2019–2022) and have been away for a long time are welcome to book a free trial again. Book it by signing in or creating an account, then choose "Request a Trial Class" and follow the booking steps in the registration system.
+
+===== [26/150]  We were students back in 2020 and want to come back, do we qualify for a trial? =====
+
+Q: We were students back in 2020 and want to come back, do we qualify for a trial?
+
+retrieved: faq-returning-student-trial=0.611, free-trial=0.503, faq-join-mid-semester=0.445, open-house=0.429
+
+A: Yes — returning students who attended in the past (for example, in 2019–2022) but have been away for a long time are welcome to book a free trial again. Follow the Free Trial Class booking steps in your account to request one.
+
+===== [27/150]  When will you announce which teacher is running summer camp week 3? =====
+
+Q: When will you announce which teacher is running summer camp week 3?
+
+retrieved: faq-camp-teacher-announcement=0.812, summer-camp-overview=0.533, summer-camp-pricing=0.446, open-house=0.400
+
+A: We announce camp teacher assignments on the Wednesday before each camp week begins. For Week 3 (June 22–26), the teacher will be announced the Wednesday before that week.
+
+===== [28/150]  How far in advance do you tell us who the camp teacher is? =====
+
+Q: How far in advance do you tell us who the camp teacher is?
+
+retrieved: faq-camp-teacher-announcement=0.732, summer-camp-overview=0.468, faq-plein-air-bring=0.386, faq-makeup-booking-advance=0.380
+
+A: We announce the camp teacher on the Wednesday before your camp week begins.
+
+===== [29/150]  What's CalColor's tax ID number for FSA reimbursement purposes? =====
+
+Q: What's CalColor's tax ID number for FSA reimbursement purposes?
+
+retrieved: faq-tax-id=0.753, payments-and-receipts=0.727, locations-and-contact=0.473, faq-fsa-receipt=0.473
+
+A: CalColor's Tax-ID for FSA reimbursement is 47-5664823.
+
+===== [30/150]  Do you have an EIN I can use for my dependent care FSA claim? =====
+
+Q: Do you have an EIN I can use for my dependent care FSA claim?
+
+retrieved: faq-fsa-receipt=0.493, payments-and-receipts=0.421, faq-tax-id=0.336, faq-restroom-help=0.228
+
+A: Yes — our Tax-ID (EIN) is 47-5664823. If you need an FSA receipt as well, email or call your campus and the team will help you get one.
+
+===== [31/150]  How early should I book a makeup class before the missed session? =====
+
+Q: How early should I book a makeup class before the missed session?
+
+retrieved: faq-makeup-booking-advance=0.761, makeup-classes=0.648, faq-makeup-class-full=0.613, faq-refund-missed-class=0.607
+
+A: We recommend booking 1–2 weeks ahead of the missed session. Booking too far in advance increases the chance of needing to reschedule.
+
+===== [32/150]  Is there a deadline for scheduling makeup classes in advance? =====
+
+Q: Is there a deadline for scheduling makeup classes in advance?
+
+retrieved: faq-makeup-booking-advance=0.701, makeup-classes=0.668, faq-makeup-class-full=0.585, faq-refund-missed-class=0.545
+
+A: Yes. Register a make-up within the same week of the missed class (each week runs Monday–Sunday) for project consistency. We also recommend booking 1–2 weeks ahead, but booking too far ahead raises the chance of rescheduling.
+
+===== [33/150]  Are you open on Memorial Day? =====
+
+Q: Are you open on Memorial Day?
+
+retrieved: faq-memorial-day=0.604, business-hours=0.385, open-house=0.290, summer-camp-overview=0.272
+
+A: Most CalColor campuses are closed on Memorial Day (it falls on a Monday), so there will be no classes at those locations. The Mountain View campus, which operates on Mondays, remains open as usual.
+
+===== [34/150]  Do all your locations close for Labor Day? =====
+
+Q: Do all your locations close for Labor Day?
+
+retrieved: faq-memorial-day=0.449, business-hours=0.361, class-calendar=0.308, open-house=0.290
+
+A: The context does not say anything about Labor Day closures. I'm not certain — please contact the front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html.
+
+===== [35/150]  Is CalColor open on the Fourth of July? =====
+
+Q: Is CalColor open on the Fourth of July?
+
+retrieved: faq-memorial-day=0.709, business-hours=0.585, open-house=0.502, locations-and-contact=0.491
+
+A: The context does not state the Fourth of July schedule. Please contact the front desk at (408) 818-8818 or cu@calcolor.com for that information, or book a free trial at https://calcolor.com/trial.html.
+
+===== [36/150]  Will there be class on New Year's Day? =====
+
+Q: Will there be class on New Year's Day?
+
+retrieved: faq-memorial-day=0.420, faq-refund-missed-class=0.364, open-house=0.352, faq-pause-class-travel=0.351
+
+A: The context doesn't state CalColor's New Year's Day schedule. Please contact the front desk at (408) 818-8818 or cu@calcolor.com to confirm, or book a free trial at https://calcolor.com/trial.html.
+
+===== [37/150]  Can a staff member take my child to the bathroom? =====
+
+Q: Can a staff member take my child to the bathroom?
+
+retrieved: faq-restroom-help=0.684, faq-potty-trained=0.474, studio-amenities=0.448, code-of-conduct=0.392
+
+A: No. Staff do not help children use the restroom. Children must be potty-trained to enroll. Step stools are provided in the restrooms and spare pants are available in case of accidents.
+
+===== [38/150]  Is there a step stool in the bathroom for younger kids? =====
+
+Q: Is there a step stool in the bathroom for younger kids?
+
+retrieved: faq-step-stool=0.615, faq-restroom-help=0.460, studio-amenities=0.332, faq-potty-trained=0.319
+
+A: Yes — step stools are provided in the restrooms for younger kids.
+
+===== [39/150]  Does my child have to be potty trained before enrolling? =====
+
+Q: Does my child have to be potty trained before enrolling?
+
+retrieved: faq-potty-trained=0.880, faq-restroom-help=0.517, studio-amenities=0.438, faq-returning-student-trial=0.353
+
+A: Yes. Children must be potty trained to enroll. Staff do not help with restroom visits; step stools are provided and spare pants are available in case of accidents.
+
+===== [40/150]  Do you keep extra clothes on hand in case of bathroom accidents? =====
+
+Q: Do you keep extra clothes on hand in case of bathroom accidents?
+
+retrieved: faq-spare-pants=0.670, faq-restroom-help=0.373, studio-amenities=0.373, faq-step-stool=0.352
+
+A: Yes — we keep spare (“pee”) pants on hand for accidents, and restrooms have step stools. Staff do not assist children with restroom use.
+
+===== [41/150]  Is Wi-Fi available for parents waiting during class? =====
+
+Q: Is Wi-Fi available for parents waiting during class?
+
+retrieved: faq-wifi=0.533, studio-amenities=0.423, faq-waitlist-how=0.398, faq-pause-class-travel=0.393
+
+A: Yes — Wi-Fi is available at the studios. The network name and password are posted on the lobby wall; if you can't find it, ask the front desk for help.
+
+===== [42/150]  What's the Wi-Fi password at the Cupertino location? =====
+
+Q: What's the Wi-Fi password at the Cupertino location?
+
+retrieved: faq-wifi=0.541, locations-and-contact=0.395, business-hours=0.386, tuition-and-billing=0.357
+
+A: The context doesn't include the Wi‑Fi password. The network name and password are posted on the lobby wall at the campus — if you can't find it, please contact the front desk at (408) 818-8818 or cu@calcolor.com for assistance. You can also book a free trial at https://calcolor.com/trial.html.
+
+===== [43/150]  Can you provide a receipt for my FSA/HSA account? =====
+
+Q: Can you provide a receipt for my FSA/HSA account?
+
+retrieved: faq-fsa-receipt=0.721, payments-and-receipts=0.535, faq-step-stool=0.261, faq-tax-id=0.239
+
+A: Yes — FSA/HSA receipts are available on request. Please email or call your campus and the team will help you get one. You can also use CalColor’s Tax-ID (47-5664823) for your FSA/HSA claims or reimbursement.
+
+===== [44/150]  Do you send itemized receipts for tax purposes? =====
+
+Q: Do you send itemized receipts for tax purposes?
+
+retrieved: faq-fsa-receipt=0.421, payments-and-receipts=0.398, faq-tax-id=0.342, faq-step-stool=0.238
+
+A: The provided context does not say whether CalColor sends itemized receipts for tax purposes. Please contact the front desk at (408) 818-8818 or cu@calcolor.com and they can confirm and provide any receipts you need. You can also book a free trial at https://calcolor.com/trial.html.
+
+===== [45/150]  What credit cards do you accept for tuition payment? =====
+
+Q: What credit cards do you accept for tuition payment?
+
+retrieved: payments-and-receipts=0.511, faq-credit-card=0.508, tuition-and-billing=0.447, discounts=0.437
+
+A: We accept VISA and MASTER cards only.
+
+===== [46/150]  Do you take American Express? =====
+
+Q: Do you take American Express?
+
+retrieved: faq-credit-card=0.334, payments-and-receipts=0.295, faq-fsa-receipt=0.295, discounts=0.227
+
+A: No — CalColor accepts VISA and MASTER only.
+
+===== [47/150]  What should my child wear for the outdoor plein air week? =====
+
+Q: What should my child wear for the outdoor plein air week?
+
+retrieved: plein-air=0.708, faq-plein-air-bring=0.703, faq-plein-air-what-is=0.503, fine-art-kids=0.412
+
+A: Please have your child wear a jacket and a hat for plein air (park week).
+
+===== [48/150]  Do we need to bring anything special for park week? =====
+
+Q: Do we need to bring anything special for park week?
+
+retrieved: faq-plein-air-bring=0.619, plein-air=0.433, faq-spare-pants=0.326, summer-camp-overview=0.318
+
+A: Yes. For park (plein air) week please have your child wear a jacket and hat, bring a water bottle, and apply sunscreen before arriving. Also take your child to the restroom before class and arrive at the park about 5 minutes early.
+
+===== [49/150]  What exactly is plein air painting? =====
+
+Q: What exactly is plein air painting?
+
+retrieved: faq-plein-air-what-is=0.767, plein-air=0.687, faq-plein-air-bring=0.433, fine-art-kids=0.297
+
+A: Plein air painting (pronounced “plen air”) is painting outdoors, directly from the landscape rather than in a studio. It focuses on observing and capturing the natural world in real time—light, color, atmosphere, and movement.
+
+===== [50/150]  Why is one of the summer weeks called "Park Week"? =====
+
+Q: Why is one of the summer weeks called "Park Week"?
+
+retrieved: faq-plein-air-bring=0.518, plein-air=0.501, faq-plein-air-what-is=0.472, faq-camp-teacher-announcement=0.351
+
+A: That week is called "Park Week" because it's when classes are held outdoors for plein air painting—students paint directly from the landscape in the open air, observing light, color, atmosphere, and movement.
+
+===== [51/150]  What are your regular business hours during the school year? =====
+
+Q: What are your regular business hours during the school year?
+
+retrieved: business-hours=0.560, class-calendar=0.444, cancellation-refund-policy=0.430, billing-cycle-2026-2027=0.410
+
+A: Regular school-year hours (all campuses except Mountain View):
+- Monday: closed.
+- Tuesday–Friday: 3:00 PM – 7:00 PM.
+- Saturday & Sunday: 9:00 AM – 6:30 PM.
+
+Mountain View campus (open Mondays):
+- Monday–Friday: 3:00 PM – 7:00 PM.
+- Saturday & Sunday: 9:00 AM – 6:30 PM.
+
+Office phone hours during the school year: Tuesday–Friday 3:00 PM – 7:00 PM; Saturday & Sunday 9:00 AM – 12:15 PM and 1:30 PM – 6:30 PM. For current hours at a specific location, call (408) 818-8818 or email that campus.
+
+===== [52/150]  What time does the front desk open on Saturdays? =====
+
+Q: What time does the front desk open on Saturdays?
+
+retrieved: faq-wifi=0.370, business-hours=0.304, faq-no-response=0.265, open-house=0.253
+
+A: Office phone hours during the school year on Saturdays are 9:00 AM – 12:15 PM and 1:30 PM – 6:30 PM.
+
+===== [53/150]  Are your hours different in the summer? =====
+
+Q: Are your hours different in the summer?
+
+retrieved: business-hours=0.424, summer-camp-overview=0.405, faq-camp-teacher-announcement=0.352, cancellation-refund-policy=0.333
+
+A: Yes. Summer 2026 hours differ from the regular school-year hours.
+
+Summer 2026 hours (June 8 – August 2, 2026): Monday–Friday 9:00 AM – 4:00 PM; Saturday and Sunday closed. Note also: June 1–7 is closed (Staff Working Week), and June 27 – July 5 is closed for the July 4th break.
+
+If you need the current hours for a specific campus (hours can vary by campus and season), call (408) 818-8818 or email that campus.
+
+===== [54/150]  What are the Mountain View location's hours specifically? =====
+
+Q: What are the Mountain View location's hours specifically?
+
+retrieved: business-hours=0.600, faq-memorial-day=0.486, locations-and-contact=0.375, summer-camp-pricing=0.357
+
+A: Mountain View (school-year) hours:
+- Monday–Friday: 3:00 PM – 7:00 PM.
+- Saturday & Sunday: 9:00 AM – 6:30 PM.
+
+For current hours at that specific location (hours can vary by season), call (408) 818-8818 or email mv@calcolor.com.
+
+===== [55/150]  What's the best way to reach CalColor if the phone isn't picking up? =====
+
+Q: What's the best way to reach CalColor if the phone isn't picking up?
+
+retrieved: locations-and-contact=0.548, business-hours=0.492, faq-credit-card=0.452, faq-tax-id=0.446
+
+A: If the phone isn't picking up, email the specific campus (see list) or cu@calcolor.com / ssj@calcolor.com / fr@calcolor.com / bm@calcolor.com / mv@calcolor.com / nw@calcolor.com. You can also email the general front desk via the campus address or call back later at (408) 818-8818 during office phone hours.
+
+===== [56/150]  How quickly do you respond to emails? =====
+
+Q: How quickly do you respond to emails?
+
+retrieved: faq-no-response=0.457, faq-fsa-receipt=0.287, faq-waitlist-duration=0.238, business-hours=0.219
+
+A: We aim to respond to all inquiries within one business day (we respond to all emails within 24 business hours).
+
+===== [57/150]  How do I make sure your emails aren't going to my spam folder? =====
+
+Q: How do I make sure your emails aren't going to my spam folder?
+
+retrieved: faq-no-response=0.242, faq-fsa-receipt=0.226, faq-waitlist-how=0.201, faq-makeup-class-full=0.196
+
+[escalated — top score 0.242 < MIN_SCORE 0.3]
+
+A: I'm not sure about that one, and I don't want to give you the wrong information. Please reach our front desk at (408) 818-8818 or cu@calcolor.com and the team will be happy to help. You can also book a free trial class here: https://calcolor.com/trial.html
+
+===== [58/150]  What's the address of the Cupertino studio? =====
+
+Q: What's the address of the Cupertino studio?
+
+retrieved: locations-and-contact=0.548, about-overview=0.453, registration=0.437, business-hours=0.432
+
+A: Cupertino: 10626 S. De Anza Blvd, Cupertino, CA 95014.
+
+===== [59/150]  What's the email address for the San Jose location? =====
+
+Q: What's the email address for the San Jose location?
+
+retrieved: locations-and-contact=0.497, business-hours=0.447, registration=0.389, about-overview=0.370
+
+A: ssj@calcolor.com
+
+===== [60/150]  How many CalColor locations are there total? =====
+
+Q: How many CalColor locations are there total?
+
+retrieved: locations-and-contact=0.630, about-overview=0.562, faq-tax-id=0.546, business-hours=0.473
+
+A: CalColor operates seven locations total: six in-person campuses (Cupertino, San Jose, Fremont, Belmont, Mountain View, Newark) plus the Online school.
+
+===== [61/150]  Where is the Newark studio located? =====
+
+Q: Where is the Newark studio located?
+
+retrieved: locations-and-contact=0.361, registration=0.321, about-overview=0.296, studio-amenities=0.295
+
+A: Newark: 35467 Dumbarton Ct, Newark, CA 94560.
+
+===== [62/150]  How do I register my child for classes? =====
+
+Q: How do I register my child for classes?
+
+retrieved: registration=0.583, free-trial=0.520, faq-potty-trained=0.487, tuition-and-billing=0.458
+
+A: To register, pick your campus and log in to that campus’s StudioDirector portal to view the class calendar and complete registration. Each campus (Cupertino, Mountain View, Belmont, Fremont, Newark, San Jose, and Online) has its own login. Registration is a monthly subscription that auto-renews; tuition is billed monthly by the number of classes scheduled. New students may book one free trial class before registering.
+
+If you need help choosing a class or completing registration, call (408) 818-8818 or email your campus.
+
+===== [63/150]  Can I sign up in person instead of online? =====
+
+Q: Can I sign up in person instead of online?
+
+retrieved: registration=0.409, open-house=0.373, online-classes=0.369, free-trial=0.361
+
+A: The context only describes online booking steps (select campus, log in to StudioDirector, use "Request a Trial Class") and that new students can book one free trial before registering. It does not say whether in-person sign-ups are offered.
+
+I’m not certain — please call the front desk at (408) 818-8818 or email cu@calcolor.com to ask, or book a free trial online at https://calcolor.com/trial.html.
+
+===== [64/150]  What are the steps to book a free trial class? =====
+
+Q: What are the steps to book a free trial class?
+
+retrieved: free-trial=0.714, faq-free-trial=0.526, registration=0.487, faq-returning-student-trial=0.480
+
+A: Follow these steps:
+
+1. Select a campus and register a new account or sign in to an existing one.  
+2. Create an account and add your family and students.  
+3. From the menu at the upper left, choose "Request a Trial Class," pick a student, then select the current school-year season.  
+4. Choose your desired class (classes are color-coded by level and show the instructor, available spots, and details).  
+5. Click the class text to select it, then pick a trial date ("Next Dates" shows more options). Once selected, your trial is booked.
+
+===== [65/150]  Do I need an account before I can book a trial? =====
+
+Q: Do I need an account before I can book a trial?
+
+retrieved: faq-free-trial=0.569, free-trial=0.549, faq-returning-student-trial=0.428, registration=0.402
+
+A: Yes. To book a trial you must select a campus and register a new account or sign in to an existing one (create an account and add your family/students), then use "Request a Trial Class" from the menu.
+
+===== [66/150]  What happens if I want to cancel my child's enrollment? =====
+
+Q: What happens if I want to cancel my child's enrollment?
+
+retrieved: cancellation-refund-policy=0.542, faq-pause-class-travel=0.511, faq-potty-trained=0.472, faq-returning-student-trial=0.450
+
+A: To cancel, email the school at least one month (30 days) in advance — no other form of notification is accepted. CalColor auto-renews tuition monthly, so you must give 30 days' notice to stop future charges.
+
+If a balance refund is involved, a $20 processing fee applies. You may request a refund within 7 days of your original payment, or request school credit within 14 days of the original payment. No refund or school credit is available after 14 days.
+
+===== [67/150]  How much notice do I need to give before cancelling? =====
+
+Q: How much notice do I need to give before cancelling?
+
+retrieved: cancellation-refund-policy=0.407, faq-pause-class-travel=0.338, faq-makeup-booking-advance=0.318, summer-camp-pricing=0.290
+
+A: For weekly school-year classes you must email the school one month (30 days) in advance to cancel. Camps use a separate refund policy — see the summer camp section for those deadlines.
+
+===== [68/150]  If I cancel mid-billing-cycle, do I still owe for that cycle? =====
+
+Q: If I cancel mid-billing-cycle, do I still owe for that cycle?
+
+retrieved: billing-cycle-2026-2027=0.436, cancellation-refund-policy=0.385, tuition-and-billing=0.381, faq-pause-class-travel=0.343
+
+A: Yes. Tuition is billed by the number of classes scheduled in each month and CalColor uses a monthly subscription model that auto-renews. To cancel, you must email the school one month (30 days) in advance. Because billing is by the monthly cycle and you must give 30 days’ notice, cancelling mid-billing-cycle does not avoid that month’s charge — you remain responsible for the current billing cycle. If you need exact proration for your situation, please contact the front desk at (408) 818-8818 or cu@calcolor.com, or log in to your campus StudioDirector portal.
+
+===== [69/150]  What's your policy if my child shows up late to class? =====
+
+Q: What's your policy if my child shows up late to class?
+
+retrieved: cancellation-refund-policy=0.498, faq-pause-class-travel=0.485, code-of-conduct=0.479, faq-refund-missed-class=0.472
+
+A: If a student is more than 15 minutes late, we recommend scheduling a make-up class instead. Ideally students should be dropped off about 5 minutes before class.
+
+===== [70/150]  How late is too late to still attend the lesson? =====
+
+Q: How late is too late to still attend the lesson?
+
+retrieved: faq-pause-class-travel=0.430, faq-refund-missed-class=0.408, faq-join-mid-semester=0.401, cancellation-refund-policy=0.383
+
+A: If a student is more than 15 minutes late, we recommend scheduling a make-up class instead — so arriving after the 15‑minute mark is considered too late to attend that lesson.
+
+===== [71/150]  How many free makeup classes do we get per semester? =====
+
+Q: How many free makeup classes do we get per semester?
+
+retrieved: makeup-classes=0.579, faq-makeup-booking-advance=0.498, faq-makeup-class-full=0.470, faq-refund-missed-class=0.457
+
+A: Students receive five free make-up classes per semester.
+
+===== [72/150]  Is there a fee after I use up my free makeup classes? =====
+
+Q: Is there a fee after I use up my free makeup classes?
+
+retrieved: makeup-classes=0.569, faq-refund-missed-class=0.487, faq-makeup-class-full=0.486, cancellation-refund-policy=0.461
+
+A: Yes. After the five free make-up classes per student per semester are used, a $5 processing fee applies for each additional make-up class that semester.
+
+===== [73/150]  How do I schedule a makeup class online? =====
+
+Q: How do I schedule a makeup class online?
+
+retrieved: faq-makeup-booking-advance=0.647, makeup-classes=0.639, faq-makeup-class-full=0.606, online-classes=0.507
+
+A: To schedule a make-up class online, log in to your campus account and use the "Request a Makeup Class" menu option. Then:
+
+1. Choose the student and their current class, and select the school-year season.  
+2. View the season schedule and click the class you want.  
+3. Pick a make-up date (use "Next Dates" for more options) and finish the booking.
+
+Notes: Register the make-up within the same Monday–Sunday week as the missed class for project consistency. We recommend booking 1–2 weeks ahead. If the class you want is full or you need help, call (408) 818-8818 or email your campus.
+
+===== [74/150]  Can I book a makeup class through the front desk instead of online? =====
+
+Q: Can I book a makeup class through the front desk instead of online?
+
+retrieved: faq-makeup-class-full=0.666, faq-makeup-booking-advance=0.614, makeup-classes=0.586, faq-refund-missed-class=0.512
+
+A: Yes. If the make-up class you want is full or you prefer assistance, please call or email your campus (front desk) and they will help — call (408) 818-8818 or email your campus. You can also book a free trial at https://calcolor.com/trial.html if relevant.
+
+===== [75/150]  Will my original class disappear if I book a makeup online? =====
+
+Q: Will my original class disappear if I book a makeup online?
+
+retrieved: faq-makeup-booking-advance=0.540, makeup-classes=0.535, faq-makeup-class-full=0.528, faq-refund-missed-class=0.462
+
+A: No — booking a make-up online does not remove your original class. Follow the four-step process in your campus account to request a make-up; the original enrollment stays in place. If the make-up class you want is full, call or email your campus for help.
+
+===== [76/150]  What is CalColor's code of conduct for parents? =====
+
+Q: What is CalColor's code of conduct for parents?
+
+retrieved: code-of-conduct=0.730, safety-and-materials=0.636, about-overview=0.565, locations-and-contact=0.527
+
+A: CalColor’s Code of Conduct for parents (summary of key points):
+
+- Do not disturb classes or approach teachers or students during class unless it’s an emergency. Pass messages, drinks, or medication through the front desk. Wait in the waiting area or outside until class is dismissed.
+- Parents are responsible for on-time drop-off and pick-up; CalColor is not responsible for students before or after their scheduled class. If there’s an emergency or unavoidable delay, contact the studio so staff can care for the child until pickup.
+- Arrange any personal meetings with the studio manager through reception.
+- Disrespect, defamation, bullying, discrimination, assault, or similar behavior by any parent (or staff/student) will not be tolerated and may lead to a meeting and possible dismissal/expulsion at the studio manager’s discretion.
+- CalColor may change teachers or timetables when necessary.
+- Studio facilities (classrooms, offices, inventory rooms, etc.) except the lobby are not available for personal use by parents or students.
+- Taking photos or brief videos of your own student is allowed; longer videos, invasion of privacy, or theft of intellectual property are not permitted.
+
+===== [77/150]  Can parents go into the classroom during a lesson? =====
+
+Q: Can parents go into the classroom during a lesson?
+
+retrieved: code-of-conduct=0.452, faq-pause-class-travel=0.421, faq-two-classes-same-level=0.408, safety-and-materials=0.392
+
+A: No. Parents should not approach teachers or students during class. They must wait in the waiting areas or outside the studios until classes are dismissed. If you need to pass a message, drink, or medication to a student, do so through the front desk.
+
+===== [78/150]  Is CalColor responsible for my child before class starts? =====
+
+Q: Is CalColor responsible for my child before class starts?
+
+retrieved: code-of-conduct=0.642, safety-and-materials=0.628, makeup-classes=0.583, faq-paint-allergy=0.569
+
+A: No. CalColor cannot take responsibility for students before (or after) their scheduled class. Parents are responsible for on-time drop-off and pick-up and must accompany children into the building for drop-off and pick-up. If there's an emergency or an unavoidable delay, contact the studio immediately so staff can keep the child calm and safe until pick-up.
+
+===== [79/150]  Can I record video of my child's entire class? =====
+
+Q: Can I record video of my child's entire class?
+
+retrieved: free-trial=0.407, faq-two-classes-same-level=0.390, faq-pause-class-travel=0.384, faq-returning-student-trial=0.383
+
+A: The context does not say whether parents may record video of an entire class. I'm not certain about the recording policy — please contact the front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html.
+
+===== [80/150]  What happens if a parent is disrespectful to a teacher? =====
+
+Q: What happens if a parent is disrespectful to a teacher?
+
+retrieved: code-of-conduct=0.395, faq-popular-teacher=0.298, safety-and-materials=0.277, cancellation-refund-policy=0.262
+
+A: Disrespect, defamation, bullying, discrimination, assault, or similar behavior by any parent, staff member, or student will not be tolerated and may lead to a meeting and possible dismissal or expulsion at the studio manager's discretion. If you have concerns about this policy, contact reception to arrange a meeting with the studio manager.
+
+===== [81/150]  Are there cameras in the classrooms? =====
+
+Q: Are there cameras in the classrooms?
+
+retrieved: safety-and-materials=0.369, code-of-conduct=0.367, studio-amenities=0.352, faq-popular-teacher=0.317
+
+A: Yes — CCTV cameras are in every classroom and public space to help ensure safety. Parents may also observe through classroom viewing windows and wait in the lobby.
+
+===== [82/150]  What's your policy on food and drinks in the classroom? =====
+
+Q: What's your policy on food and drinks in the classroom?
+
+retrieved: code-of-conduct=0.451, safety-and-materials=0.385, studio-amenities=0.358, cancellation-refund-policy=0.340
+
+A: Due to allergy reasons, please do not bring food or drinks other than water into the classrooms. Water is allowed.
+
+===== [83/150]  Is there a Lost and Found at the studio? =====
+
+Q: Is there a Lost and Found at the studio?
+
+retrieved: studio-amenities=0.404, faq-wifi=0.353, safety-and-materials=0.348, code-of-conduct=0.322
+
+A: Yes. CalColor takes no responsibility for lost or misplaced property and asks you to avoid bringing valuables. Please ask your studio where the Lost & Found is located — unclaimed items may be discarded, so check with your studio about the timing.
+
+===== [84/150]  Do I need to walk my child in from the parking lot? =====
+
+Q: Do I need to walk my child in from the parking lot?
+
+retrieved: faq-potty-trained=0.463, faq-restroom-help=0.444, faq-plein-air-bring=0.405, code-of-conduct=0.316
+
+A: The context doesn't say whether parents need to walk their child in from the parking lot. Please contact the front desk at (408) 818-8818 or cu@calcolor.com for that detail, or book a free trial at https://calcolor.com/trial.html.
+
+===== [85/150]  How do I know which class level my child should be in? =====
+
+Q: How do I know which class level my child should be in?
+
+retrieved: class-levels=0.562, faq-two-classes-same-level=0.465, faq-potty-trained=0.437, fine-art-kids=0.405
+
+A: Choose the level by your child’s age and skill/experience:
+
+- If age 4–6: Art Exploration (1.5 hrs, 1x/week) — developmental, builds fine motor skills and curiosity.  
+- If age 7–9: Art Foundation (1.5 hrs, 1x/week) — fundamentals, styles, vocabulary, teamwork.  
+- If age 10–12 (generally 5th grade and up) and experienced: Art Advancement (1.5 hrs, 1x/week) — weekly homework, technical studies, independent research, advanced techniques.  
+- If age 8–11 and strongly experienced/passionate: Elite Class — application required (submit best artwork for panel review); 2 hrs, 1x/week.
+
+In addition to age, instructors evaluate skill and readiness (completion of prior level and demonstrated proficiency are considered for advancing). If you’re unsure, contact any CalColor staff for help or book the free trial class for new students to see which level fits.
+
+===== [86/150]  What are the requirements to move up to the next class level? =====
+
+Q: What are the requirements to move up to the next class level?
+
+retrieved: class-levels=0.580, faq-two-classes-same-level=0.371, faq-potty-trained=0.347, tuition-rates=0.337
+
+A: To advance to the next level students must:
+
+- Meet the age and skill requirements for the next class (each class is designed for specific age groups and skill levels).  
+- Successfully complete their current level and demonstrate proficiency in the skills and techniques taught.  
+- Be evaluated and approved by their instructor, who assesses progress and readiness based on performance, homework, and independent research.
+
+Also note: some advanced classes (Elite Class, AP Studio Art, Digital Art Portfolio) require a submitted application. Families unsure which level fits can contact any CalColor staff for help.
+
+===== [87/150]  Do the Elite and AP fine art classes require an application? =====
+
+Q: Do the Elite and AP fine art classes require an application?
+
+retrieved: class-levels=0.585, ap-college-portfolio=0.579, programs-overview=0.553, fine-art-kids=0.544
+
+A: Yes. Both the Elite Class (Fine Art — Kids) and the AP Studio Art / Portfolio classes require a submitted application.
+
+===== [88/150]  Does the Digital Art Portfolio class require an application too? =====
+
+Q: Does the Digital Art Portfolio class require an application too?
+
+retrieved: ap-college-portfolio=0.549, digital-art=0.548, programs-overview=0.507, fine-art-teen=0.506
+
+A: The context says the Digital Art Portfolio is offered at Cupertino and Fremont and that the instructor interviews students during the trial class. It does not state a separate application requirement. If you need confirmation for a specific campus, please contact the front desk at (408) 818-8818 or cu@calcolor.com or book a free trial at https://calcolor.com/trial.html.
+
+===== [89/150]  How is my monthly tuition calculated? =====
+
+Q: How is my monthly tuition calculated?
+
+retrieved: tuition-and-billing=0.615, billing-cycle-2026-2027=0.522, tuition-rates=0.517, discounts=0.422
+
+A: Tuition is billed as a monthly subscription and equals the per-class rate for your class/campus multiplied by the number of classes scheduled in that month’s billing cycle. Billing is prorated if you join mid-cycle (you only pay for the remaining classes that month). Card payments incur a 3% surcharge; E‑Check has no surcharge. For exact per-class rates for your campus, log in to your campus StudioDirector portal or call (408) 818-8818.
+
+===== [90/150]  Why isn't my tuition bill the same amount every month? =====
+
+Q: Why isn't my tuition bill the same amount every month?
+
+retrieved: tuition-and-billing=0.528, billing-cycle-2026-2027=0.526, tuition-rates=0.373, discounts=0.349
+
+A: Tuition is billed monthly by the number of classes scheduled in each month, so the amount changes when months have different numbers of class sessions. CalColor uses an auto‑renewing monthly subscription and prorates billing (you only pay for the classes in that month), and some months include holidays or breaks that reduce class count. Exact per‑class rates also vary by class and campus, so month-to-month totals depend on (1) how many classes fall in that billing cycle and (2) the per‑class rate for your campus. For the most accurate month-by-month amounts for your student, check your campus StudioDirector portal or contact the front desk at (408) 818-8818.
+
+===== [91/150]  Is there a processing fee if I pay by credit card? =====
+
+Q: Is there a processing fee if I pay by credit card?
+
+retrieved: payments-and-receipts=0.424, faq-credit-card=0.382, discounts=0.351, tuition-and-billing=0.351
+
+A: Yes. Card payments (credit or debit) add a 3% processing surcharge, which is non‑refundable. Paying by bank account (E‑Check) has no surcharge and is recommended.
+
+===== [92/150]  Is E-Check really fee-free? =====
+
+Q: Is E-Check really fee-free?
+
+retrieved: payments-and-receipts=0.320, faq-free-trial=0.306, discounts=0.286, summer-camp-pricing=0.271
+
+A: Yes. Paying by bank account (E-Check) has no surcharge and is the recommended payment method. Card payments (credit or debit) add a 3% processing surcharge, which is non‑refundable.
+
+===== [93/150]  Do you offer a sibling discount? =====
+
+Q: Do you offer a sibling discount?
+
+retrieved: discounts=0.558, summer-camp-pricing=0.375, open-house=0.360, faq-returning-student-trial=0.355
+
+A: Yes. For school-year weekly classes the sibling discount is $5 off each student per month. For summer camp the sibling discount is $10 per sibling per week (first week only; the multi-week rate applies to additional weeks).
+
+===== [94/150]  How much do I save if I refer a friend? =====
+
+Q: How much do I save if I refer a friend?
+
+retrieved: discounts=0.448, summer-camp-pricing=0.254, open-house=0.234, tuition-rates=0.209
+
+A: For school-year weekly classes: you and the new student each get $50 school credit for future use.
+
+For summer camp: you and the new student each get $25 credit.
+
+===== [95/150]  What's your refund policy if I want my money back? =====
+
+Q: What's your refund policy if I want my money back?
+
+retrieved: cancellation-refund-policy=0.405, faq-refund-missed-class=0.400, summer-camp-pricing=0.365, faq-fsa-receipt=0.304
+
+A: Which program? Our refund rules differ for weekly school-year classes vs. summer camp.
+
+- Weekly school-year classes (auto-renew monthly): To cancel, email the school 30 days (one month) in advance. Missed classes are not refunded; make-up classes are offered instead. If a balance refund is involved, a $20 processing fee applies. You may request a refund within 7 days of your original payment, or request school credit within 14 days of the original payment. No refund or credit is available after 14 days. (Autopay processed by the system is not considered the original payment.)
+
+- Summer camp: Camp refunds are handled by emailing your campus. Timeline:
+  - Within 24 hours of payment: full refund, no processing fee.
+  - Until April 1: 100% refund minus a $25 processing fee per session.
+  - Until May 1: 75% refund (or school credit).
+  - Until 2 weeks before camp start: 50% refund (or school credit).
+  - Within 2 weeks of camp start: no refund, credit, or camp switch.
+  Note: surcharges on card payments (3%) are non‑refundable; bank e-check has no surcharge. The camp refund policy applies in all situations.
+
+If you want us to process a refund or have a specific payment/date to review, please email the front desk at cu@calcolor.com or call (408) 818-8818, or book a free trial at https://calcolor.com/trial.html.
+
+===== [96/150]  How many days do I have to request a full refund after paying? =====
+
+Q: How many days do I have to request a full refund after paying?
+
+retrieved: cancellation-refund-policy=0.358, summer-camp-pricing=0.333, faq-pause-class-travel=0.314, faq-refund-missed-class=0.307
+
+A: For weekly school-year classes, you may request a refund within 7 days of your original payment (a $20 processing fee applies). You may request school credit within 14 days of the original payment. No refund or school credit is available after 14 days.
+
+===== [97/150]  Is there a fee for requesting a refund? =====
+
+Q: Is there a fee for requesting a refund?
+
+retrieved: summer-camp-pricing=0.392, cancellation-refund-policy=0.368, faq-fsa-receipt=0.350, payments-and-receipts=0.320
+
+A: Yes — sometimes.
+
+- For summer camp refunds: until April 1 there is a $25 processing fee per session canceled. Within 24 hours of payment there is no processing fee; other refund windows list percentage refunds (surcharges are non‑refundable).
+- For weekly school‑year class refunds: a $20 processing fee applies if a balance refund is involved. Refund requests must be made within 7 days of the original payment (or you can request school credit within 14 days).
+
+===== [98/150]  What happens if I ask for a refund after 14 days? =====
+
+Q: What happens if I ask for a refund after 14 days?
+
+retrieved: cancellation-refund-policy=0.352, summer-camp-pricing=0.327, faq-refund-missed-class=0.317, faq-pause-class-travel=0.296
+
+A: For weekly school-year classes, no refund or school credit is available after 14 days from the original payment. If you need help or believe your case is different, please contact the front desk at (408) 818-8818 or cu@calcolor.com or book a free trial at https://calcolor.com/trial.html.
+
+===== [99/150]  How do I transfer my child to a different studio location? =====
+
+Q: How do I transfer my child to a different studio location?
+
+retrieved: registration=0.536, free-trial=0.427, code-of-conduct=0.427, open-house=0.426
+
+A: To transfer to another studio, first create an account for the destination studio. Then contact the admin team by email or phone to move your classes and school balance.
+
+===== [100/150]  Do I need a new account if we're switching locations? =====
+
+Q: Do I need a new account if we're switching locations?
+
+retrieved: registration=0.373, faq-returning-student-trial=0.329, faq-potty-trained=0.320, open-house=0.290
+
+A: Yes. Studio accounts are independent. To transfer to another studio, first create an account for that studio, then contact the admin team by email or phone to move your classes and school balance.
+
+===== [101/150]  Where can I find the academic calendar for my studio? =====
+
+Q: Where can I find the academic calendar for my studio?
+
+retrieved: class-calendar=0.542, registration=0.523, makeup-classes=0.472, tuition-and-billing=0.464
+
+A: For the exact calendar at a specific campus, log in to that campus's StudioDirector portal or call (408) 818-8818.
+
+===== [102/150]  Do you follow the same school holidays as the local public school district? =====
+
+Q: Do you follow the same school holidays as the local public school district?
+
+retrieved: class-calendar=0.446, billing-cycle-2026-2027=0.376, cancellation-refund-policy=0.366, business-hours=0.345
+
+A: Each campus follows its local public school district's schedule for the spring-break week (exact dates vary by location). For other listed holidays/breaks, our school-year calendar shows specific breaks (e.g., Thanksgiving Nov 23–29, Christmas Dec 21–Jan 3, July 4th break June 29–July 5). For the exact calendar at a specific campus, log in to that campus's StudioDirector portal or call (408) 818-8818.
+
+===== [103/150]  Is there a dress code for art class? =====
+
+Q: Is there a dress code for art class?
+
+retrieved: studio-amenities=0.525, class-levels=0.479, code-of-conduct=0.467, safety-and-materials=0.456
+
+A: CalColor provides aprons for young artists and recommends not wearing valuable clothing to class because art materials may stain.
+
+===== [104/150]  Do you provide aprons for students? =====
+
+Q: Do you provide aprons for students?
+
+retrieved: studio-amenities=0.503, faq-spare-pants=0.501, faq-step-stool=0.426, safety-and-materials=0.362
+
+A: Yes — CalColor provides aprons for young artists. We also recommend avoiding valuable clothing since art materials can stain.
+
+===== [105/150]  Where can I see teacher bios and qualifications? =====
+
+Q: Where can I see teacher bios and qualifications?
+
+retrieved: faq-popular-teacher=0.443, teachers=0.390, faq-camp-teacher-announcement=0.352, studio-amenities=0.285
+
+A: You can view teacher bios and qualifications at https://www.calcolor.com/teachers.
+
+===== [106/150]  How do I find out more about a specific teacher before enrolling? =====
+
+Q: How do I find out more about a specific teacher before enrolling?
+
+retrieved: faq-popular-teacher=0.519, faq-camp-teacher-announcement=0.500, free-trial=0.445, registration=0.426
+
+A: You can view information about any specific teacher on the teachers page: https://www.calcolor.com/teachers.
+
+===== [107/150]  What age range is the Art Exploration summer camp for? =====
+
+Q: What age range is the Art Exploration summer camp for?
+
+retrieved: summer-camp-overview=0.602, fine-art-kids=0.565, programs-overview=0.512, class-levels=0.470
+
+A: Art Exploration Camp: ages 4.5–6.
+
+===== [108/150]  What age range is the Teen summer camp for? =====
+
+Q: What age range is the Teen summer camp for?
+
+retrieved: summer-camp-overview=0.544, faq-camp-teacher-announcement=0.437, summer-camp-pricing=0.401, fine-art-teen=0.362
+
+A: Teen Camp: ages 11+ (no upper age limit listed).
+
+===== [109/150]  What's the teacher-to-student ratio for summer camps? =====
+
+Q: What's the teacher-to-student ratio for summer camps?
+
+retrieved: faq-camp-teacher-announcement=0.538, summer-camp-overview=0.532, summer-camp-pricing=0.388, discounts=0.331
+
+A: Teacher-to-student ratio is 1:10 (Teen and Digital camps may go up to 1:15 at some sites).
+
+===== [110/150]  Is the ratio different for the Digital Camp? =====
+
+Q: Is the ratio different for the Digital Camp?
+
+retrieved: summer-camp-overview=0.490, digital-art=0.440, open-house=0.429, summer-camp-pricing=0.412
+
+A: Yes. Teacher-to-student ratio is 1:10 generally; Digital Camp (and Teen and Digital camps at some sites) may go up to 1:15.
+
+===== [111/150]  How many weeks of summer camp are offered in 2026? =====
+
+Q: How many weeks of summer camp are offered in 2026?
+
+retrieved: summer-camp-overview=0.624, summer-camp-pricing=0.542, faq-camp-teacher-announcement=0.508, class-calendar=0.480
+
+A: There are seven weeks of summer camp offered in 2026 (Week 1: June 8–12 through Week 7: July 27–31).
+
+===== [112/150]  Is there a camp week that's skipped, like around the Fourth of July? =====
+
+Q: Is there a camp week that's skipped, like around the Fourth of July?
+
+retrieved: summer-camp-overview=0.498, summer-camp-pricing=0.435, faq-camp-teacher-announcement=0.411, cancellation-refund-policy=0.385
+
+A: Yes. There is no camp June 27–July 5 (school closed), so camps skip the week that includes July 4.
+
+===== [113/150]  What time does summer camp drop-off start? =====
+
+Q: What time does summer camp drop-off start?
+
+retrieved: summer-camp-overview=0.571, faq-camp-teacher-announcement=0.514, summer-camp-pricing=0.499, cancellation-refund-policy=0.378
+
+A: Drop-off begins at 8:45 AM (typical daily schedule shows 8:45–9:00 drop off).
+
+===== [114/150]  What time is pick-up at the end of a camp day? =====
+
+Q: What time is pick-up at the end of a camp day?
+
+retrieved: summer-camp-overview=0.440, faq-camp-teacher-announcement=0.396, summer-camp-pricing=0.391, faq-plein-air-bring=0.338
+
+A: Pick-up is 4:00–4:15 PM (with extended care available 4:00–6:00 PM).
+
+===== [115/150]  Is lunch included in summer camp tuition? =====
+
+Q: Is lunch included in summer camp tuition?
+
+retrieved: summer-camp-pricing=0.488, summer-camp-overview=0.484, discounts=0.421, tuition-and-billing=0.418
+
+A: Lunch is not included. You can order from WeBox (details shared before camp) or pack a lunch.
+
+===== [116/150]  Can I order lunch delivery for camp instead of packing one? =====
+
+Q: Can I order lunch delivery for camp instead of packing one?
+
+retrieved: summer-camp-overview=0.407, summer-camp-pricing=0.371, faq-camp-teacher-announcement=0.320, faq-plein-air-bring=0.304
+
+A: Yes. Lunch is not included — you may order from WeBox (a third-party vendor; details are shared before camp) or pack a lunch.
+
+===== [117/150]  Is extended care available after camp ends at 4pm? =====
+
+Q: Is extended care available after camp ends at 4pm?
+
+retrieved: summer-camp-overview=0.458, summer-camp-pricing=0.451, cancellation-refund-policy=0.348, faq-camp-teacher-announcement=0.344
+
+A: Yes. Extended care is available Monday–Friday from 4:00–6:00 PM.
+
+===== [118/150]  How much does extended care cost per week at the Fremont location? =====
+
+Q: How much does extended care cost per week at the Fremont location?
+
+retrieved: summer-camp-pricing=0.505, tuition-rates=0.429, tuition-and-billing=0.365, open-house=0.344
+
+A: Fremont extended care is $60 per week.
+
+===== [119/150]  Is there an early bird discount for summer camp? =====
+
+Q: Is there an early bird discount for summer camp?
+
+retrieved: summer-camp-pricing=0.577, discounts=0.575, summer-camp-overview=0.514, open-house=0.477
+
+A: Yes. There’s an Early Bird discount for summer camp: save $50 per camp if registered before March 1, or save $25 per camp if registered March 1–April 1.
+
+===== [120/150]  What's the cutoff date to get the full early bird discount? =====
+
+Q: What's the cutoff date to get the full early bird discount?
+
+retrieved: discounts=0.369, open-house=0.368, summer-camp-pricing=0.335, tuition-and-billing=0.284
+
+A: The cutoff to get the full Early Bird discount is March 1 — register before March 1 to save $50 per camp.
+
+===== [121/150]  How much is the sibling discount for summer camp? =====
+
+Q: How much is the sibling discount for summer camp?
+
+retrieved: discounts=0.611, summer-camp-pricing=0.569, summer-camp-overview=0.493, open-house=0.444
+
+A: Sibling discount for summer camp is $10 per sibling per week (first week only; the multi-week rate applies to additional weeks).
+
+===== [122/150]  Does the sibling discount apply to every week of camp or just the first? =====
+
+Q: Does the sibling discount apply to every week of camp or just the first?
+
+retrieved: discounts=0.556, summer-camp-pricing=0.534, faq-camp-teacher-announcement=0.442, summer-camp-overview=0.423
+
+A: The sibling discount for summer camp is $10 per sibling per week for the first week only; the multi-week rate applies to additional weeks.
+
+===== [123/150]  What's the refund policy if I cancel summer camp last minute? =====
+
+Q: What's the refund policy if I cancel summer camp last minute?
+
+retrieved: cancellation-refund-policy=0.666, summer-camp-pricing=0.631, faq-pause-class-travel=0.482, discounts=0.470
+
+A: The camp refund policy applies to all situations without exception.
+
+- Within 24 hours of payment: full refund, no processing fee.
+- Until April 1: 100% refund minus a $25 processing fee per session canceled.
+- Until May 1: 75% refund (or school credit).
+- Until 2 weeks before camp start: 50% refund (or school credit).
+- Within 2 weeks of camp start: no refund, credit, or camp switch.
+
+To cancel camp, email your campus.
+
+===== [124/150]  Can I get a full refund if I cancel within 24 hours of paying for camp? =====
+
+Q: Can I get a full refund if I cancel within 24 hours of paying for camp?
+
+retrieved: summer-camp-pricing=0.582, cancellation-refund-policy=0.550, faq-pause-class-travel=0.441, discounts=0.417
+
+A: Yes. For summer camp, if you cancel within 24 hours of payment you get a full refund with no processing fee.
+
+===== [125/150]  Is there a surcharge for paying camp tuition by credit card? =====
+
+Q: Is there a surcharge for paying camp tuition by credit card?
+
+retrieved: summer-camp-pricing=0.512, discounts=0.504, tuition-and-billing=0.486, cancellation-refund-policy=0.449
+
+A: Yes. A 3% surcharge applies to all credit/debit card payments for summer camp; paying by Bank Account (E-Check) has no surcharge.
+
+===== [126/150]  Do you offer camp switches close to the start date? =====
+
+Q: Do you offer camp switches close to the start date?
+
+retrieved: summer-camp-pricing=0.484, summer-camp-overview=0.463, faq-camp-teacher-announcement=0.435, cancellation-refund-policy=0.406
+
+A: The camp refund policy says: within 2 weeks of camp start there is no refund, credit, or camp switch. So camp switches are not allowed within two weeks of a camp week starting. For earlier windows, the policy describes refund amounts but does not explicitly describe switches — if you need a change before two weeks out, please contact your campus front desk at (408) 818-8818 or cu@calcolor.com (or book a free trial at https://calcolor.com/trial.html) so they can advise.
+
+===== [127/150]  Do you teach adult pottery classes? =====
+
+Q: Do you teach adult pottery classes?
+
+retrieved: fine-art-kids=0.436, programs-overview=0.408, fine-art-teen=0.401, digital-art=0.388
+
+A: I’m not certain — the provided program information doesn’t mention adult pottery classes. Please contact our front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html.
+
+===== [128/150]  Can adults sign up for painting classes too? =====
+
+Q: Can adults sign up for painting classes too?
+
+retrieved: fine-art-kids=0.578, fine-art-teen=0.535, digital-art=0.533, faq-paint-allergy=0.512
+
+A: I'm not certain — the provided program information only describes classes for ages 4–18 (kids, teens, and digital programs). For confirmation about adult classes, please contact the front desk at (408) 818-8818 or cu@calcolor.com. You can also book a free trial at https://calcolor.com/trial.html.
+
+===== [129/150]  Do you offer classes for children under 4 years old? =====
+
+Q: Do you offer classes for children under 4 years old?
+
+retrieved: fine-art-kids=0.496, digital-art=0.446, free-trial=0.438, programs-overview=0.423
+
+A: The provided program information starts at age 4 (Art Exploration — Ages 4–6). There is no mention of classes for children under 4 in the context, so CalColor does not list offerings for under‑4s. If you need confirmation or want help finding an appropriate class for a younger child, please contact the front desk at (408) 818-8818 or cu@calcolor.com — you can also book a free trial at https://calcolor.com/trial.html.
+
+===== [130/150]  What's the youngest age you accept for enrollment? =====
+
+Q: What's the youngest age you accept for enrollment?
+
+retrieved: faq-potty-trained=0.489, registration=0.428, faq-returning-student-trial=0.420, class-levels=0.412
+
+A: The context doesn't state a minimum enrollment age. Please contact the front desk at (408) 818-8818 or cu@calcolor.com for that detail, or book a free trial at https://calcolor.com/trial.html.
+
+===== [131/150]  Do you have any locations outside the Bay Area? =====
+
+Q: Do you have any locations outside the Bay Area?
+
+retrieved: locations-and-contact=0.470, about-overview=0.397, business-hours=0.369, online-classes=0.352
+
+A: No — CalColor Academy operates six in-person campuses in the Bay Area (Cupertino, San Jose, Fremont, Belmont, Mountain View, and Newark) plus an online school. We do not have locations outside the Bay Area.
+
+===== [132/150]  Is there a CalColor location in Los Angeles? =====
+
+Q: Is there a CalColor location in Los Angeles?
+
+retrieved: locations-and-contact=0.631, about-overview=0.580, business-hours=0.499, online-classes=0.495
+
+A: No. CalColor Academy operates six in-person campuses in the San Francisco Bay Area (Cupertino, San Jose, Fremont, Belmont, Mountain View, and Newark) plus online classes. We do not have a Los Angeles location.
+
+===== [133/150]  Can I get a partial credit if I switch from in-person to digital classes? =====
+
+Q: Can I get a partial credit if I switch from in-person to digital classes?
+
+retrieved: discounts=0.470, makeup-classes=0.459, faq-refund-missed-class=0.442, cancellation-refund-policy=0.431
+
+A: The provided policies do not mention partial credits for switching from in-person to digital classes. I'm not certain about that specific situation — please contact the front desk at (408) 818-8818 or cu@calcolor.com to confirm. You can also book a free trial at https://calcolor.com/trial.html.
+
+===== [134/150]  Do digital classes cost the same as in-person classes? =====
+
+Q: Do digital classes cost the same as in-person classes?
+
+retrieved: tuition-rates=0.529, tuition-and-billing=0.462, online-classes=0.450, digital-art=0.440
+
+A: Yes — digital classes use the same per-class tuition structure as in-person classes, with rates listed by class and campus (including an Online campus where shown). See the per-class tuition rates for exact pricing by class and location.
+
+===== [135/150]  What kind of art supplies does my child need to bring from home? =====
+
+Q: What kind of art supplies does my child need to bring from home?
+
+retrieved: safety-and-materials=0.469, faq-plein-air-bring=0.465, fine-art-kids=0.448, faq-paint-allergy=0.439
+
+A: For in-person classes you don’t need to bring supplies — CalColor provides non-toxic paints and materials for class. If your child has allergies or sensitivities and will attend a digital class, they can use parent-approved materials at home; contact us if you’d like more details about recommended home supplies.
+
+===== [136/150]  Do you supply all the materials or do we need to buy our own? =====
+
+Q: Do you supply all the materials or do we need to buy our own?
+
+retrieved: faq-step-stool=0.410, safety-and-materials=0.356, faq-paint-non-toxic=0.356, faq-spare-pants=0.332
+
+A: The provided context doesn’t state whether we supply all materials or if families need to buy any. Please contact the front desk at (408) 818-8818 or cu@calcolor.com for details, or book a free trial at https://calcolor.com/trial.html.
+
+===== [137/150]  Is there a discount for signing up for multiple classes at once? =====
+
+Q: Is there a discount for signing up for multiple classes at once?
+
+retrieved: discounts=0.604, open-house=0.486, free-trial=0.486, tuition-and-billing=0.477
+
+A: The provided context does not mention any discount for signing up for multiple classes at once. For confirmation or account-specific pricing, please contact the front desk at (408) 818-8818 or cu@calcolor.com — you can also book a free trial at https://calcolor.com/trial.html.
+
+===== [138/150]  Can I pay for the whole semester up front instead of monthly? =====
+
+Q: Can I pay for the whole semester up front instead of monthly?
+
+retrieved: billing-cycle-2026-2027=0.475, tuition-and-billing=0.469, faq-pause-class-travel=0.456, faq-join-mid-semester=0.451
+
+A: The context doesn't say that paying for a whole semester up front is offered. I’m not certain whether we allow semester prepayment. Please contact the front desk at (408) 818-8818 or cu@calcolor.com to confirm and arrange payment options — you can also book a free trial at https://calcolor.com/trial.html.
+
+===== [139/150]  What happens to my school credit if I never use it? =====
+
+Q: What happens to my school credit if I never use it?
+
+retrieved: cancellation-refund-policy=0.388, makeup-classes=0.387, discounts=0.351, faq-pause-class-travel=0.346
+
+A: The provided context does not say what happens to unused school credit (e.g., expiration or forfeiture). I'm not certain of the policy. Please contact the front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html.
+
+===== [140/150]  Can I transfer my referral credit to another family member's account? =====
+
+Q: Can I transfer my referral credit to another family member's account?
+
+retrieved: discounts=0.394, faq-returning-student-trial=0.278, faq-fsa-receipt=0.275, payments-and-receipts=0.246
+
+A: The context does not say whether referral credits can be transferred to another family member's account. Please contact the front desk for help: (408) 818-8818 or cu@calcolor.com. You can also book a free trial at https://calcolor.com/trial.html.
+
+===== [141/150]  Do you offer birthday party bookings at the studio? =====
+
+Q: Do you offer birthday party bookings at the studio?
+
+retrieved: open-house=0.412, studio-amenities=0.398, faq-makeup-class-full=0.375, safety-and-materials=0.374
+
+A: I'm not certain — the provided information doesn't say whether we offer birthday party bookings. Please contact the front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html and they can confirm party availability and details.
+
+===== [142/150]  Can I rent out the studio space for a private event? =====
+
+Q: Can I rent out the studio space for a private event?
+
+retrieved: studio-amenities=0.383, open-house=0.361, code-of-conduct=0.349, faq-pause-class-travel=0.348
+
+A: CalColor's facilities (classrooms, offices, inventory rooms, etc.), excluding the lobby, are not available for personal use by parents or students. So you may not rent out studio space for a private event.
+
+===== [143/150]  What's the difference between the Fine Art and Digital Art tracks? =====
+
+Q: What's the difference between the Fine Art and Digital Art tracks?
+
+retrieved: digital-art=0.508, fine-art-kids=0.502, fine-art-teen=0.480, programs-overview=0.476
+
+A: Fine Art focuses on traditional media and broad art skills: painting, drawing, sculpture, mixed media, printmaking, installation, art history, museum trips, exhibitions, and competitions. It’s organized by age/skill (Art Exploration, Art Foundation, Art Advancement, Teen Sketchbook/Drawing/Painting/Portfolio) and trains fundamentals through observational work and portfolio development for AP/college.
+
+Digital Art focuses on digital illustration, painting, and animation using tablets and professional software. Classes teach cartoon/illustration, typography, visual development, infographic/graphic design, digital painting, anime/comics, and animation tools. Digital classes require a device and include electives like Digital Anime and Animation Lab; some courses emphasize portfolio work and professional digital painting.
+
+In short: Fine Art emphasizes hands-on, traditional media and art history/real-world studio practices; Digital Art emphasizes tablet-based, software-driven illustration/animation and digital portfolio skills.
+
+===== [144/150]  How do I know if my child is ready to move from Exploration to the next level? =====
+
+Q: How do I know if my child is ready to move from Exploration to the next level?
+
+retrieved: class-levels=0.490, faq-potty-trained=0.389, fine-art-kids=0.359, free-trial=0.342
+
+A: Students move up based on age, demonstrated skills, completion of the current level, and the instructor’s evaluation. For the Kids Fine Art pathway, Art Exploration is for ages 4–6; to advance you and the instructor will consider:
+
+- Age: the next level (Art Foundation) is typically for ages 7–9.  
+- Completion and proficiency: successful completion of Exploration and demonstrated proficiency in the skills/techniques taught.  
+- Instructor evaluation: the teacher assesses progress from class performance, any homework/assignments, and readiness to handle more advanced projects.
+
+If your child is on the age boundary and has little experience, start at the lower level; the teacher will recommend promotion when ready. If you want personalized guidance, contact any CalColor staff for help.
+
+===== [145/150]  Are makeup classes available for summer camp too, or only regular semester classes? =====
+
+Q: Are makeup classes available for summer camp too, or only regular semester classes?
+
+retrieved: makeup-classes=0.581, summer-camp-overview=0.534, faq-makeup-booking-advance=0.503, faq-makeup-class-full=0.502
+
+A: The context only describes make-up classes for regular semester classes (semesters run Fall and Spring) and the make-up booking process through your campus account. It does not say anything about make-ups for summer camp, so I'm not certain. Please contact the front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html.
+
+===== [146/150]  If my child ages out of a camp's range, can they still join with permission? =====
+
+Q: If my child ages out of a camp's range, can they still join with permission?
+
+retrieved: summer-camp-overview=0.443, summer-camp-pricing=0.412, faq-potty-trained=0.404, faq-returning-student-trial=0.397
+
+A: The context does not address making exceptions for campers who have aged out of a camp’s listed age range. I'm not certain if we can allow that with permission. Please contact the front desk at (408) 818-8818 or cu@calcolor.com to ask about an exception; you can also book a free trial at https://calcolor.com/trial.html.
+
+===== [147/150]  Do you have scholarships or financial aid available? =====
+
+Q: Do you have scholarships or financial aid available?
+
+retrieved: discounts=0.346, faq-fsa-receipt=0.322, payments-and-receipts=0.319, ap-college-portfolio=0.302
+
+A: The provided information does not mention scholarships or general financial aid programs. For help with payment options, discounts, or to ask about any financial-aid or scholarship possibilities, please contact the front desk at (408) 818-8818 or cu@calcolor.com. You can also book a free trial at https://calcolor.com/trial.html.
+
+===== [148/150]  Is military or first responder discount offered? =====
+
+Q: Is military or first responder discount offered?
+
+retrieved: discounts=0.391, payments-and-receipts=0.279, summer-camp-pricing=0.271, faq-free-trial=0.257
+
+A: The provided context does not mention any military or first responder discount. I'm not certain—please contact the front desk at (408) 818-8818 or cu@calcolor.com to ask, or book a free trial at https://calcolor.com/trial.html.
+
+===== [149/150]  Can grandparents pick up my child from class? =====
+
+Q: Can grandparents pick up my child from class?
+
+retrieved: code-of-conduct=0.384, faq-restroom-help=0.376, faq-pause-class-travel=0.363, faq-two-classes-same-level=0.362
+
+A: The context doesn’t explicitly say who is allowed to pick up a child. Please contact the front desk at (408) 818-8818 or cu@calcolor.com to confirm pickup permissions, or book a free trial at https://calcolor.com/trial.html if you need to discuss enrollment.
+
+===== [150/150]  What ID do I need to show when picking up my child? =====
+
+Q: What ID do I need to show when picking up my child?
+
+retrieved: faq-restroom-help=0.372, faq-potty-trained=0.365, faq-plein-air-bring=0.332, safety-and-materials=0.327
+
+A: I’m not certain — the provided campus policies do not say what ID is required at pickup. Please contact the front desk at (408) 818-8818 or cu@calcolor.com, or book a free trial at https://calcolor.com/trial.html.
+

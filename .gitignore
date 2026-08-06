@@ -7,10 +7,13 @@ node_modules/
 # OS
 .DS_Store
 
-# Regenerated eval outputs (the harness rewrites these on every run)
+# Live eval outputs — run_test_questions.sh truncates and rewrites these on every
+# run, so they are genuinely disposable. Scoped to the exact two paths on purpose:
+# do NOT broaden this to `*.log`, `*.txt` or `*.out`. The committed
+# month_test_sim/baseline-*.log files are the retrieval-score baseline the whole
+# verification strategy diffs against, and a wildcard here would silently eat them.
 month_test_sim/test_run_log.txt
 month_test_sim/test_run_summary.txt
-*.out
 
 # Secrets — every .env* is ignored EXCEPT the checked-in template.
 # KEEP THIS BLOCK LAST: the negation only works if nothing re-ignores
