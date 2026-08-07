@@ -71,7 +71,13 @@ while IFS= read -r line; do
 
   # Count rate limits separately so a throttled run is obvious instead of being
   # indistinguishable from a broken model.
-  if echo "$out" | grep -qiE '429|rate.?limit'; then
+  #
+  # Skip the "retrieved:" line and require non-numeric context around 429. A bare
+  # /429/ matches cosine scores — "open-house=0.429" — and a clean run reported
+  # three phantom rate limits, which then invalidated an otherwise perfect tally.
+  # A false alarm on the trustworthiness check is as bad as missing a real 429.
+  if echo "$out" | grep -v '^retrieved:' \
+       | grep -qiE '(^|[^0-9.])429([^0-9]|$)|rate.?limit|too many requests'; then
     rate_limited=$((rate_limited+1))
   fi
 
