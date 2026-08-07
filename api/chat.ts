@@ -3,13 +3,14 @@ import { streamText } from 'ai';
 import { config, escalationMessage } from '../lib/config.js';
 import { systemPrompt, contextBlock } from '../lib/prompt.js';
 import { retrieve } from '../lib/kb.js';
+import { chatModel } from '../lib/models.js';
 
 // Standalone Vercel Function (Node.js / Fluid Compute). Vercel invokes /api
 // functions with the Node.js (req, res) signature, so we read from `req` and
 // stream the answer by writing to `res`.
 //
 // Pipeline: CORS -> validate -> retrieve (in-memory cosine) -> confidence gate
-// -> GPT-5 mini via AI Gateway with a strict grounding prompt -> stream.
+// -> GPT-5 mini via OpenRouter with a strict grounding prompt -> stream.
 
 // @vercel/node populates `req.body` (parsed JSON when the content-type is JSON).
 type Req = IncomingMessage & { body?: unknown };
@@ -113,11 +114,12 @@ export default async function handler(req: Req, res: Res): Promise<void> {
     retrieved: chunks.map((c) => `${c.id}:${c.score.toFixed(2)}`),
   });
 
+  // Reasoning effort is pinned on the model instance in lib/models.ts — do not add
+  // a providerOptions block here. See the warning there before you are tempted.
   const result = streamText({
-    model: config.chatModel,
+    model: chatModel,
     system: systemPrompt(),
     maxOutputTokens: config.maxOutputTokens,
-    providerOptions: { openai: { reasoningEffort: config.reasoningEffort } },
     messages: [
       ...history.map((t) => ({ role: t.role, content: t.content })),
       {

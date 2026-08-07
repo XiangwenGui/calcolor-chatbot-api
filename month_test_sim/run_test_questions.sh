@@ -57,6 +57,7 @@ echo "Running $expected questions (sleep ${SLEEP_SECONDS}s between calls)..."
 answered=0
 escalated=0
 errored=0
+empty=0
 rate_limited=0
 total=0
 
@@ -70,18 +71,35 @@ while IFS= read -r line; do
 
   # Count rate limits separately so a throttled run is obvious instead of being
   # indistinguishable from a broken model.
-  if echo "$out" | grep -qiE '429|rate.?limit'; then
+  #
+  # Skip the "retrieved:" line and require non-numeric context around 429. A bare
+  # /429/ matches cosine scores — "open-house=0.429" — and a clean run reported
+  # three phantom rate limits, which then invalidated an otherwise perfect tally.
+  # A false alarm on the trustworthiness check is as bad as missing a real 429.
+  if echo "$out" | grep -v '^retrieved:' \
+       | grep -qiE '(^|[^0-9.])429([^0-9]|$)|rate.?limit|too many requests'; then
     rate_limited=$((rate_limited+1))
   fi
 
+  # Order matters: the escalation path also prints an "A: " line.
+  #
+  # The `[^ ]` on the answered branch is load-bearing. ask.ts writes "\nA: " and
+  # then streams; if the model returns nothing, the log still contains a bare
+  # "A: " line, and a plain `^A: ` test would score the single failure this
+  # migration is most exposed to — reasoning effort not reaching the wire, so the
+  # whole MAX_OUTPUT_TOKENS budget goes to reasoning — as a clean pass. The
+  # baseline run has 150 non-empty "A: " lines and 0 bare ones, so this bucket
+  # reproduces 149/1 exactly and only ever fires on a real regression.
   if echo "$out" | grep -q "\[escalated"; then
     escalated=$((escalated+1))
-  elif echo "$out" | grep -qE "^A: "; then
+  elif echo "$out" | grep -qE "^A: +[^ ]"; then
     answered=$((answered+1))
+  elif echo "$out" | grep -qE "^A: *$"; then
+    empty=$((empty+1))
   else
     errored=$((errored+1))
   fi
-  echo "progress: answered=$answered escalated=$escalated errored=$errored rate_limited=$rate_limited / $total"
+  echo "progress: answered=$answered escalated=$escalated empty=$empty errored=$errored rate_limited=$rate_limited / $total"
 
   if [[ "$total" -lt "$expected" ]]; then
     sleep "$SLEEP_SECONDS"
@@ -92,9 +110,15 @@ done < <(grep -E '^[0-9]+\.' "$QFILE")
   echo "Total questions: $total"
   echo "Answered: $answered"
   echo "Escalated: $escalated"
+  echo "Empty answers: $empty"
   echo "Errored/unparsed: $errored"
   echo "Rate-limited (429) responses seen: $rate_limited"
 } | tee "$SUMMARY"
+
+if [[ "$empty" -gt 0 ]]; then
+  echo "WARNING: $empty empty answer(s). That is the signature of reasoning effort not" >&2
+  echo "reaching the wire — check lib/models.ts before trusting anything else here." >&2
+fi
 
 if [[ "$rate_limited" -gt 0 ]]; then
   echo "WARNING: $rate_limited response(s) mention a rate limit — the tally above is not trustworthy." >&2

@@ -1,5 +1,6 @@
 import { embed, cosineSimilarity } from 'ai';
 import { config } from './config.js';
+import { embeddingModel } from './models.js';
 
 export type KbChunk = {
   id: string;
@@ -56,7 +57,7 @@ export function rankChunks(
 export async function retrieve(question: string): Promise<Retrieved[]> {
   const index = await loadIndex();
   const { embedding } = await embed({
-    model: config.embedModel,
+    model: embeddingModel,
     value: question,
   });
   return rankChunks(embedding, index.chunks, config.topK);

@@ -3,8 +3,8 @@
 // and prints the streamed answer, plus retrieval debug so you can see grounding.
 //
 // Prereqs (no push needed):
-//   1. Put AI_GATEWAY_API_KEY in .env  (Vercel Dashboard -> AI Gateway -> API Keys)
-//   2. npm run build:index            (creates data/vectors.json)
+//   1. Put OPENROUTER_API_KEY in .env  (openrouter.ai -> Keys -> Create Key)
+//   2. npm run build:index             (creates data/vectors.json)
 // Then:
 //   npm run ask "How much is summer camp in Cupertino?"
 //   npm run ask "Do you offer adult pottery classes?"   # should escalate
@@ -13,6 +13,7 @@ import { streamText } from 'ai';
 import { config, escalationMessage } from '../lib/config.js';
 import { systemPrompt, contextBlock } from '../lib/prompt.js';
 import { retrieve } from '../lib/kb.js';
+import { chatModel } from '../lib/models.js';
 
 const question = process.argv.slice(2).join(' ').trim();
 
@@ -20,8 +21,8 @@ if (!question) {
   console.error('Usage: npm run ask "your question here"');
   process.exit(1);
 }
-if (!process.env.AI_GATEWAY_API_KEY) {
-  console.error('Missing AI_GATEWAY_API_KEY. Add it to .env (see .env.example) and retry.');
+if (!process.env.OPENROUTER_API_KEY) {
+  console.error('Missing OPENROUTER_API_KEY. Add it to .env (see .env.example) and retry.');
   process.exit(1);
 }
 
@@ -41,11 +42,12 @@ async function main() {
     return;
   }
 
+  // Reasoning effort is pinned on the model instance in lib/models.ts — do not add
+  // a providerOptions block here. See the warning there before you are tempted.
   const result = streamText({
-    model: config.chatModel,
+    model: chatModel,
     system: systemPrompt(),
     maxOutputTokens: config.maxOutputTokens,
-    providerOptions: { openai: { reasoningEffort: config.reasoningEffort } },
     messages: [
       {
         role: 'user',

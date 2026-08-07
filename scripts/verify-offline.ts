@@ -1,7 +1,9 @@
 // Offline sanity check for the retrieval + confidence-gate logic. Uses a tiny
 // synthetic index with hand-picked vectors, so it needs NO network / API key.
 // It proves: cosine ranking order, top-k slicing, and the min-score gate.
-//   node --experimental-strip-types scripts/verify-offline.ts
+//   node --import tsx scripts/verify-offline.ts
+// (--experimental-strip-types cannot run this: the relative imports use `.js`
+// specifiers that resolve to `.ts` files, which only the tsx loader rewrites.)
 
 import assert from 'node:assert';
 import { rankChunks, type KbChunk } from '../lib/kb.js';
