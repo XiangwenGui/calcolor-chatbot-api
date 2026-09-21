@@ -11,8 +11,7 @@ Newark campus is closed on Mondays, so its school-year hours are:
 - Tuesday–Friday: 2:00 PM – 7:00 PM.
 - Saturday & Sunday: 9:00 AM – 6:30 PM.
 
-Holidays and Scheduled Breaks
-
+Holidays and Scheduled Breaks: 
 CalColor operates on a weekly class schedule. We do not close for long weekends. 
 Classes remain open on weekends and on Monday holidays unless the date falls within one of CalColor's scheduled full-week breaks.
 
