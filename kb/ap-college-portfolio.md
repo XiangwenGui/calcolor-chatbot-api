@@ -16,4 +16,4 @@ Services:
 
 Students have been accepted to schools including RISD, Pratt, Parsons, School of Visual Arts, School of the Art Institute of Chicago, Art Center College of Design, UCLA, UC Berkeley, UC San Diego, Carnegie Mellon, University of Michigan, USC, UT Austin, and Harvard.
 
-Portfolio Development classes are offered at the Cupertino and Fremont campuses. For details on getting started, book a free trial or contact the school.
+Portfolio Development classes are offered at the Cupertino, Mountain View, South San Jose, Belmont and Fremont campuses. For details on getting started, book a free trial or contact the school.
