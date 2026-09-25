@@ -7,7 +7,6 @@ Track record:
 - 90% top art college acceptance rate.
 - $100k average scholarship awarded.
 - 150+ Scholastic Art award winners each year.
-- Recognized as a National Silver Medal Winning Program.
 
 Services:
 - Portfolio Development: work with a professional teacher to explore mediums and develop a cohesive body of work for an AP Art or college portfolio, with feedback and guidance.
