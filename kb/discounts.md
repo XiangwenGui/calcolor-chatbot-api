@@ -2,7 +2,9 @@
 
 School-year weekly classes:
 - Referral discount: refer a friend and each of you gets $50 school credit for future use (in effect since February 17, 2026). Ask the new student to email the campus with the referral details, and credits are applied to both parties.
-- Sibling discount: $5 off each student per month.
+- Sibling Discount: Save $20 per billing cycle (approx. 1 month) for every additional child enrolled after your first!
+2 Kids Enrolled: $20 total savings / cycle
+3 Kids Enrolled: $40 total savings / cycle
 
 Summer camp:
 - Early Bird: save $50 per camp if registered before March 1; save $25 per camp if registered March 1 – April 1.
