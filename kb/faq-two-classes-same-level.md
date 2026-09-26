@@ -1,3 +1,4 @@
 # Can I take two classes of the same level a week? My child really likes art.
 
-Yes, of course. You are absolutely welcome to take two different-level classes. However, if you choose to take two classes at the same level, please note that the content may be similar or even the same in both sessions.
+You can take two AP or two PD (Portfolio Development) classes in one week.
+If you choose to take two classes at the same level other than AP and PD, please note that the content is the same in both sessions.
