@@ -9,6 +9,7 @@ How to schedule a make-up (4 steps):
 2. Choose the student and current class, then select the school-year season.
 3. View the season schedule and choose a class by clicking on its text.
 4. Select a make-up date ("Next Dates" shows more options), then finish. The make-up is booked.
+5. Please note that your regular class schedule will not disappear. Your upcoming class list will always include your regular class schedule. As long as you see your makeup class in your upcoming classes, your makeup class is successfully booked.
 
 Make-up policy:
 - Register a make-up within the same week of the missed class for project consistency (each week runs Monday–Sunday). Make-ups can be scheduled before or after the missed class. We recommend booking 1–2 weeks ahead; booking too far in advance raises the chance of rescheduling.
