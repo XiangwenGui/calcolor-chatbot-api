@@ -9,9 +9,7 @@ Billing details:
 - Level or class changes: students can upgrade their level or change to another class anytime, with no fee.
 - Payment: card payments add a 3% surcharge; paying by bank account (E-Check) has no surcharge and is recommended. (See payment methods, accepted cards, Tax-ID, and FSA receipts for details.)
 - Referral discount: refer a friend and each of you gets $50 school credit for future use (in effect since February 17, 2026).
-- Sibling Discount: Save $20 per billing cycle (approx. 1 month) for every additional child enrolled after your first!
-2 Kids Enrolled: $20 total savings / cycle
-3 Kids Enrolled: $40 total savings / cycle
+- Sibling Discount: Save $20 per billing cycle (approx. 1 month) for every additional child enrolled after your first! For example, 2 Kids Enrolled: $20 total savings / cycle. And if 3 Kids Enrolled: $40 total savings / cycle
 
 Billing is prorated. Because you only pay for the classes remaining in a billing cycle, you can join mid-cycle. For example, in 2026, an Exploration student enrolling on September 2nd at Cupertino pays $210.00 ($52.50 per class × 4 classes remaining); a Portfolio Prep Drawing student enrolling in the 4th week of October's cycle at San Jose pays $160.00 ($80.00 per class × 2 classes remaining). Billing cycles are approximately (not exactly) a month, so some days bleed between months.
 
